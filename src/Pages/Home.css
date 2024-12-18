@@ -1,0 +1,11 @@
+.home{
+  color: white;
+  width: 100%;
+  cursor: pointer;
+}
+.home-content{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 0px;
+  justify-content: space-between;
+}

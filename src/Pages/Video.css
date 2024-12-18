@@ -1,0 +1,49 @@
+.video-page{
+  width: 70vw;
+  color: white;
+  height: 150vh;
+}
+#titl{font-size: 25px;}
+.video-play{
+  height: 40vw;
+  width: 70vw;
+}
+.subscribe img{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;;
+}
+.subscribe button{
+  color: black;
+  background-color: white;
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+#sub-count{margin: 0px; font-size: 15px;}
+.subscribe{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+.channel-info b{font-size: 20px; margin-bottom: 5px;}
+.all-likes-sub{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 17px;
+}
+.function-icons{
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 15px;
+  color: white;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.information{margin-top: 20px;}
+iframe{border-radius: 15px;}
